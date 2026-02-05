@@ -4,7 +4,7 @@
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
-<a href="https://t.me/x0xgo4ko"><strong>Telegram</strong></a>
+<a href="https://t.me/go4koxyz"><strong>Telegram</strong></a>
 <a href="https://discord.com/users/750438679222157382"><strong>Discord</strong></a>
 
 ## My Work

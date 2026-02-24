@@ -72,7 +72,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock's LSWs.
       <td>11/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
-      <td>Stablecoin, Staking, ERC4626</td>
+      <td>Bad debt insurance of a lending protocol, Staking, ERC4626</td>
       <td>2M</td>
       <td><a href="https://audits.sherlock.xyz/contests/1202/">Private</a></td>
       <td>1st 🥇 place

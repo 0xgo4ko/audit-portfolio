@@ -11,7 +11,10 @@
 
 ### Public competitions
 
-I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipede"><strong>0xAlipede</strong></a>
+Biggest achievement:
+
+1st place in the Inverse Finance contest on Sherlock.
+Achieved 100% coverage on a codebase previously audited by Sherlock's LSWs.
 
 <table>
   <thead>
@@ -43,6 +46,17 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
   </thead>
   <tbody>
     <tr>
+      <td>6</td>
+      <td>01/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover</a></td>
+      <td>Insurance Vaults, ERC7540, ERC7575</td>
+      <td>-</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1222">Private</a></td>
+      <td>6th 🎖️place
+      </td>
+    </tr>
+    <tr>
       <td>5</td>
       <td>11/2025</td>
       <td>DualGuard</td>
@@ -72,7 +86,8 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
       <td><a href="https://audits.sherlock.xyz/contests/1176">Private</a></td>
-      <td>6th place </td>
+      <td>6th 🎖️ place 
+      </td>
     </tr>
     <tr>
       <td>2</td>
@@ -92,7 +107,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td>Staking, ERC4626</td>
       <td>1M</td>
       <td><a href="https://code4rena.com/reports/2025-01-liquid-ron">Public</a></td>
-      <td>12th place </td>
+      <td>12th 🎖️ place </td>
     </tr>
   </tbody>
 </table>
